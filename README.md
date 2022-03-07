@@ -5,4 +5,4 @@
 这里引用y4的文章结尾：“文笔垃圾，措辞轻浮，内容浅显，操作生疏。不足之处欢迎大师傅们指点和纠正，感激不尽。”
 ```
 ## 记录
-2022/3/7  添加使用纤程bypass的方法。
+2022/3/7  添加使用[纤程bypass](https://github.com/3rsh1/goBypassAv/tree/main/my_createFiber)的方法。
