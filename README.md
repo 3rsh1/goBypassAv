@@ -6,4 +6,5 @@
 
 ## 记录
 2022/3/7  添加使用[纤程bypass](https://github.com/3rsh1/goBypassAv/tree/main/my_createFiber)的方法。\
-2022/3/8  添加创建挂起进程，[修改entryPoint为shellcode地址](https://github.com/3rsh1/goBypassAv/tree/main/mx2)的方法。
+2022/3/8  添加创建挂起进程，[修改entryPoint为shellcode地址](https://github.com/3rsh1/goBypassAv/tree/main/mx2)的方法。\
+2022/3/8  添加[syscall执行shellcode](https://github.com/3rsh1/goBypassAv/tree/main/syscallShellcode)的方法。
